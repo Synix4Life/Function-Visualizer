@@ -1,6 +1,6 @@
 # Function Visualizer
 
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.1-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-Passed_(2/2)-blue?style=flat-square)
 
@@ -29,3 +29,5 @@ If you have any other modes you want to be implemented or there are any errors, 
 
 - $\textsf{\color{dodgerblue}Version 1.0.0}$
   - Basic implementation
+  - $\textsf{\color{dodgerblue}Version 1.0.1}$
+    - Add .gitignore

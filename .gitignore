@@ -1,0 +1,6 @@
+.idea/
+*/.idea/
+__pycache__/
+test/__pycache__/
+src/__pycache__/
+src/material/__pycache__/
